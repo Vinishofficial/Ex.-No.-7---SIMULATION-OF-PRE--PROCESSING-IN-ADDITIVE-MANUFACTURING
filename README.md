@@ -47,7 +47,7 @@
 ![Screenshot 2023-11-29 002222](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/f4cd0abe-5f9a-4cfa-9484-d8c53bc717be)
 ![Screenshot 2023-11-29 002235](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/e3d44281-85d1-4ee0-9a9c-0be9bb5387c8)
 ![Screenshot 2023-11-29 002245](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/7b2640b0-e006-4fad-b706-3bf33d3c5fb7)
-![Screenshot 2023-11-29 002307](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/1bff1625-238d-403a-8979-aca4a64fb9e2)
+![image](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/3567a514-bbb0-4309-84b4-f7e7df98e7cc)
 
 
 ### Name: VINISH RAJ R
