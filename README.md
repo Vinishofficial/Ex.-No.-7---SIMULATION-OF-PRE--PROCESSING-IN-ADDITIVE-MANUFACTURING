@@ -53,6 +53,9 @@
 
 ![image](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/3567a514-bbb0-4309-84b4-f7e7df98e7cc)
 
+![image](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/ddc5dbfd-859a-4aba-addd-115b5f96e453)
+
+
 
 ### Name: VINISH RAJ R
 ### Register Number: 23014040
