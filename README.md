@@ -46,7 +46,8 @@
 ## Output:
 ![image](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/440438ec-6357-44d7-8189-07e4cd9de4e7)
 
-![Screenshot 2023-11-29 002235](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/e3d44281-85d1-4ee0-9a9c-0be9bb5387c8)
+![image](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/d78977fc-b897-4328-8770-bb3c600b8a3d)
+
 
 ![Screenshot 2023-11-29 002245](https://github.com/Vinishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/7b2640b0-e006-4fad-b706-3bf33d3c5fb7)
 
